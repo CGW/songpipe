@@ -1,0 +1,121 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta property="og:image" content="http://cward.nyc/img/data3.png"/>
+  <meta property="og:title" content="Songpipe: Song Affinity and Discovery"/>
+  <meta property="og:url" content="http://cward.nyc/songpipe"/>
+  <meta property="og:site_name" content="Songpipe"/>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Songpipe | Song Affinities</title>
+  <meta name="description" content="Music Data Visualization">
+  <meta name="author" content="Christopher Grant Ward">
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">    
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-56749768-1']);
+    _gaq.push(['_trackPageview']);
+  
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    
+    ga('create', 'UA-56749768-1', 'auto');
+    ga('require', 'displayfeatures');
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+  </script>
+
+</head>
+<body>
+  <div id="lightbox"></div>  
+  <div id="intro">
+    <h1>Songpipe</h1>
+    <br>
+    <p>Ceci n'est pas une chanson</p>
+    <br><br>
+    <img width="300" src="images/pipe.jpg">
+    <p>Songpipe is an public audio library featuring artists' original song versions, but also unexpected covers and live versions. Expect something different each time.</p>
+    <br>
+    <p class="start">Loading...</p>
+    <p class="spinner"><img src="images/ajax-loader.gif" alt="Loading" /></p>
+  </div>
+  <div id="container" class="container">
+  <div id="main" role="main"><div id="vis"></div></div>  
+    <div id="controls">
+        <div id="title" class="control">
+        <h1>Songpipe</h1>
+        <h3><span style="color:#FF0000">V1.0</span> Music Discovery</h3>
+        <p>by <a href="http://cward.nyc">Christopher Ward</a></p>
+        <div style="width:280px; float:left; line-height: 10px;">
+              <div id="fb-root"></div><div class="fb-share-button" data-href="http://cward.nyc/songpipe/" data-layout="button"></div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://cward.nyc/songpipe/" data-text="Check out Songpipe" data-via="SUBTXT" data-count="none">Tweet</a>
+        </div>
+        <div id="song_selection" class="control">
+        <hr>  
+        <h3>Source</h3>
+        <select id="song_select" class="control">
+          <option value="fake_trees.json">Fake Plastic Trees</option>
+          <option value="aint_me_babe.json">Ain't Me Babe</option>
+          <option value="killing_moon.json">Killing Moon</option>
+          <option value="teenage_riot.json">Teen Age Riot</option>
+          <option value="closer.json">Closer</option>
+          <option value="with_or_without.json">With or Without You</option>
+          <option value="walk_the_line.json">I Walk The Line</option>
+          <option value="billie_jean.json">Billie Jean</option>
+          <option value="rising_sun.json">Rising Sun</option>
+          <option value="mad_world.json">Mad World</option>
+        </select>
+      </div>
+      <div id="layouts" class="control">
+      <hr>  
+        <h3>Display</h3>
+        <a id="force" class="hitbutton active">Tree</a>
+        <a id="radial" class="hitbutton">Wheel</a>
+      </div>
+      <div id="playlist" class="control">
+        <hr>
+        <audio><source src="fake.mp3"></audio>    
+        <p style="width: 270px; color: #ccc; font-size: 10px;">Credits: Product, design, python, content and front-end development: <a href="http://www.linkedin.com/in/cgward/">Christopher Ward</a>. With<a href="http://vallandingham.me/"> Jim Vallandingham's</a> force D3 code to get started.</p>    
+        <p>Nothing's perfect. Complain<a href="mailto:hellocward@gmail.com"> about silly/broken song versions</a> or <a href="mailto:hellocward@gmail.com">or request a new source.</a></p>
+     </div>
+    </div>
+  </div>
+  </div>
+  <div align="center" id="playerbar"></div>
+
+  <!--Javascript -->
+    <script src="js/plugins.js"></script>
+    <script src="js/script.js"></script>
+    <script src="js/libs/d3.v2.js"></script>
+    <script src="js/Tooltip.js"></script>
+    <script src="js/tunecloud.js"></script>
+    <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+    <script src="js/libs/modernizr-2.0.6.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="//code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+    <script>tunecloud();</script>
+    <script defer src="js/libs/coffee-script.js"></script>
+    
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+</body>
+</html>

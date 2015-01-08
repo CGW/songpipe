@@ -1,0 +1,131 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Tunecloud :: Song Affinities</title>
+  <meta name="description" content="Music Data Visualization">
+  <meta name="author" content="Christopher Grant Ward">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+    
+  <div id="container" class="container">
+    <div id="controls">
+        <h1>tunecloud</h1>
+        <h2>Song Affinities</h2>
+        <div id="song_selection" class="control"></div>
+        <div id="song_selection" class="control">
+        <hr>  
+        <h3>Source Content</h3>
+        <select id="song_select" class="control">
+          <option value="killing_moon.json">Killing Moon</option>
+          <option value="teenage_riot.json">Teen Age Riot</option>
+          <option value="closer.json">Closer</option>
+          <option value="aint_me_babe.json">Ain't Me Babe</option>
+          <option value="with_or_without.json">With or Without You</option>
+          <option value="walk_the_line.json">I Walk The Line</option>
+          <option value="fake_trees.json">Fake Plastic Trees</option>
+          <option value="billie_jean.json">Billie Jean</option>
+          <option value="rising_sun.json">Rising Sun</option>
+          <option value="mad_world.json">Mad World</option>
+        </select>
+      </div>
+      <div id="layouts" class="control">
+      <hr>  
+        <h3>Display</h3>
+        <a id="force" class="hitbutton active">Tree</a>
+        <a id="radial" class="hitbutton">Wheel</a>
+      </div>
+      <div id="playlist" class="control">
+        <hr>
+        <p style="font-size: 12px; color: #aaa;">This library features originals, as well as unexpected covers and live versions for many of these tracks. Expect something different. Enjoy your discovery.</p>    
+        <!--<h3 class="playtitle">Now Playing</h3>-->
+        <!--<audio controls><source src="http://onlinekaraoke.tv/assets/songs/34000-34999/34876-where-the-streets-have-no-name-u2--1411575001.mp3"></audio>-->
+        <!--<div class="itemlock">I Still Haven't Found What I'm Look...<span class="close"></span></div>-->
+        <!--<div class="button">Generate playlist</div>-->
+      </div>
+
+      <!--<div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular</a>
+        <a id="obscure">Obscure</a>
+      </div>
+      <div id="sorts" class="control">
+        <h3>Sort</h3>
+        <a id="songs" class="active">Songs</a>
+        <a id="links">Links</a>
+      </div>
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>-->
+        <!--<div id="legend"><p>Proximity = Musical Affinty  |  Size = Total Plays  |  Color, per Branch = Artist</p></div> -->
+        
+    <!--<object width="250" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="" name="">
+        <param name="movie" value="http://grooveshark.com/songWidget.swf" />
+        <param name="wmode" value="window" />
+        <param name="allowScriptAccess" value="always" />
+        <param name="flashvars" value="hostname=grooveshark.com&songID=235438572&style=metal&p=0" />
+        <object type="application/x-shockwave-flash" data="http://grooveshark.com/songWidget.swf" width="290" height="40"><param name="wmode" value="window" />
+            <param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=23543857&style=metal&p=0" />
+            <span>
+                <a href="http://grooveshark.com/search/song?q=U2%20With%20or%20Without%20You" title="With or Without You by U2 on Grooveshark">With or Without You by U2 on Grooveshark</a>
+            </span>
+        </object>
+    </object>-->
+    </div>
+    
+    <!--<a id="generate" onclick="alert(document.getElementById('playlist').getAttribute('onclick'));">Generate</a>-->
+    <div id="main" role="main">
+       <div id="vis"></div>
+    </div>
+
+     <hr>
+    
+     <div class="clearfix"></div>
+    
+     <p style="color: #ccc; font-size: 10px;">Credits: Front-end: <a href="www.linkedin.com/in/cgward/">Christopher Ward</a>. Based on <a href="http://vallandingham.me/">Jim Vallandingham's</a> D3 schema.</p>    
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+
+ <script>
+    $(".close").live("click", function() {
+     $(this).parent().remove();
+    });
+
+    $(".addlink").live("touchstart", function() {
+    text = $(".addlink").text()
+    $("#playlist").append("<li class=\"item\">" + text + "<span class=\"close\"> x </span></li>");
+      });
+  </script>
+      
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+
+     <div id="playerbar">TEST</div>
+  
+</body>
+</html>

@@ -1,0 +1,1818 @@
+{
+    "nodes": [
+                 {
+                   "id":"my_back_pages_bob_dylan",
+                   "playcount":401172,
+                   "name":"My Back Pages",
+                   "match":1,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://coverlaydown.com/tunes/2013/myback.mp3"
+                 },
+                 {
+                   "id":"its_all_over_now_baby_blue_bob_dylan",
+                   "playcount":1151369,
+                   "name":"Its All Over Now, Baby Blue",
+                   "match":0.990951,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"the_boxer_simon__garfunkel",
+                   "playcount":2504877,
+                   "name":"The Boxer",
+                   "match":0.210456,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://mp3for.me/assets/songs/30000-30999/30328-the-boxer-simon-and-garfunkel--1411573322.mp3"
+                 },
+                 {
+                   "id":"america_simon__garfunkel",
+                   "playcount":1882346,
+                   "name":"America",
+                   "match":0.201488,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://mp3dos.com/assets/songs/62000-62999/62315-america-simon-garfunkel--1411583205.mp3"
+                 },
+                 {
+                   "id":"youve_got_to_hide_your_love_away_the_beatles",
+                   "playcount":2168289,
+                   "name":"Youve Got to Hide Your Love Away",
+                   "match":0.179536,
+                   "artist":"The Beatles",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"the_needle_and_the_damage_done_neil_young",
+                   "playcount":1383427,
+                   "name":"The Needle and the Damage Done",
+                   "match":0.175619,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/42000-42999/42252-the-needle-and-the-damage-done-neil-young--1411577404.mp3"
+                 },
+                 {
+                   "id":"catch_the_wind_donovan",
+                   "playcount":523252,
+                   "name":"Catch the Wind",
+                   "match":0.174348,
+                   "artist":"Donovan",
+                   "mp3_url":"http://rockhall.com/media/assets/music/08c/409/dcd.mp3"
+                 },
+                 {
+                   "id":"heart_of_gold_neil_young",
+                   "playcount":3308688,
+                   "name":"Heart of Gold",
+                   "match":0.168303,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/14000-14999/14972-heart-of-gold-neil-young--1411568451.mp3"
+                 },
+                 {
+                   "id":"blackbird_the_beatles",
+                   "playcount":3754557,
+                   "name":"Blackbird",
+                   "match":0.154742,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17587-blackbird-the-beatles--1411569644.mp3"
+                 },
+                 {
+                   "id":"jennifer_juniper_donovan",
+                   "playcount":191556,
+                   "name":"Jennifer Juniper",
+                   "match":0.152626,
+                   "artist":"Donovan",
+                   "mp3_url":"http://cfs.tistory.com/attach/6040/1012535094.mp3"
+                 },
+                 {
+                   "id":"for_what_its_worth_buffalo_springfield",
+                   "playcount":2705268,
+                   "name":"For What Its Worth",
+                   "match":0.151949,
+                   "artist":"Buffalo Springfield",
+                   "mp3_url":"http://pit.dirty.ru/dirty/1/2011/12/08/26753-054126-a6febe3d7979fe5b7904ea8e038561af.mp3"
+                 },
+                 {
+                   "id":"so_long_marianne_leonard_cohen",
+                   "playcount":1238970,
+                   "name":"So Long, Marianne",
+                   "match":0.148902,
+                   "artist":"Leonard Cohen",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/75000-75999/75018-so-long-marianne-leonard-cohen--1411586566.mp3"
+                 },
+                 {
+                   "id":"suzanne_leonard_cohen",
+                   "playcount":1877777,
+                   "name":"Suzanne",
+                   "match":0.144223,
+                   "artist":"Leonard Cohen",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/61000-61999/61446-suzanne-leonard-cohen--1411582818.mp3"
+                 },
+                 {
+                   "id":"she_belongs_to_me_bob_dylan",
+                   "playcount":882755,
+                   "name":"She Belongs to Me",
+                   "match":1,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://dreamheads.se/Ljudfiler/She Belongs To Me_bob dylan.mp3"
+                 },
+                 {
+                   "id":"maggies_farm_bob_dylan",
+                   "playcount":1061800,
+                   "name":"Maggies Farm",
+                   "match":0.986692,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://www.bigozine.com/TRKS7/BDnjersey/BDnjersey14.mp3"
+                 },
+                 {
+                   "id":"only_love_can_break_your_heart_neil_young",
+                   "playcount":1022183,
+                   "name":"Only Love Can Break Your Heart",
+                   "match":0.141427,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/62000-62999/62295-only-love-can-break-your-heart-neil-young--1411583199.mp3"
+                 },
+                 {
+                   "id":"the_weight_the_band",
+                   "playcount":1637322,
+                   "name":"The Weight",
+                   "match":0.119028,
+                   "artist":"The Band",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/041 - The Band - The Weight_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"the_night_they_drove_old_dixie_down_the_band",
+                   "playcount":723975,
+                   "name":"The Night They Drove Old Dixie Down",
+                   "match":0.0984806,
+                   "artist":"The Band",
+                   "mp3_url":"http://www.panicstream.net/streams/zac_brown_band/2011_10_21/12 The Night They Drove Old DIxie Down.mp3"
+                 },
+                 {
+                   "id":"you_aint_goin_nowhere_bob_dylan_and_the_band",
+                   "playcount":92675,
+                   "name":"You Aint Goin Nowhere",
+                   "match":0.0983139,
+                   "artist":"Bob Dylan and The Band",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"go_and_say_goodbye_buffalo_springfield",
+                   "playcount":174710,
+                   "name":"Go And Say Goodbye",
+                   "match":0.0910089,
+                   "artist":"Buffalo Springfield",
+                   "mp3_url":"http://www.panicstream.net/streams/neil_young/2010_24_BS/T05 Go And Say Goodbye.mp3"
+                 },
+                 {
+                   "id":"astral_weeks_van_morrison",
+                   "playcount":489758,
+                   "name":"Astral Weeks",
+                   "match":0.0883201,
+                   "artist":"Van Morrison",
+                   "mp3_url":"http://richrock.com/media/iTunes/iTunes Music/Van Morrison/Astral Weeks/01 Astral Weeks.mp3"
+                 },
+                 {
+                   "id":"pink_moon_nick_drake",
+                   "playcount":2557018,
+                   "name":"Pink Moon",
+                   "match":0.0874247,
+                   "artist":"Nick Drake",
+                   "mp3_url":"http://dl.musicema.com/music/tracks/01-NickDrake-PinkMoon.mp3"
+                 },
+                 {
+                   "id":"hazey_jane_ii_nick_drake",
+                   "playcount":710508,
+                   "name":"Hazey Jane II",
+                   "match":0.0871994,
+                   "artist":"Nick Drake",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"teach_your_children_crosby_stills_nash__young",
+                   "playcount":677022,
+                   "name":"Teach Your Children",
+                   "match":0.0832925,
+                   "artist":"Crosby, Stills, Nash & Young",
+                   "mp3_url":"http://www.classic45s.com/jukebox/Teach_Your_Children.mp3"
+                 },
+                 {
+                   "id":"thrasher_neil_young__crazy_horse",
+                   "playcount":89637,
+                   "name":"Thrasher",
+                   "match":0.0822919,
+                   "artist":"Neil Young & Crazy Horse",
+                   "mp3_url":"http://blues.jpj.net/~jespo/music/learn_rns/02 Thrasher.mp3"
+                 },
+                 {
+                   "id":"carey_joni_mitchell",
+                   "playcount":653238,
+                   "name":"Carey",
+                   "match":0.0793911,
+                   "artist":"Joni Mitchell",
+                   "mp3_url":"http://www.coreybarksdale.com/Music/Joni/Joni Mitchell - Carey.mp3"
+                 },
+                 {
+                   "id":"bridge_over_troubled_water_simon__garfunkel",
+                   "playcount":2137456,
+                   "name":"Bridge over Troubled Water",
+                   "match":1,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15043-bridge-over-troubled-water-simon-garfunkel--1411568467.mp3"
+                 },
+                 {
+                   "id":"cecilia_simon__garfunkel",
+                   "playcount":2010460,
+                   "name":"Cecilia",
+                   "match":0.97753,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/64000-64999/64060-cecilia-simon-garfunkel--1411583732.mp3"
+                 },
+                 {
+                   "id":"like_a_rolling_stone_bob_dylan",
+                   "playcount":5056893,
+                   "name":"Like a Rolling Stone",
+                   "match":0.21604,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/95000-95999/95289-like-a-rolling-stone-bob-dylan--1411591965.mp3"
+                 },
+                 {
+                   "id":"blowin_in_the_wind_bob_dylan",
+                   "playcount":3054213,
+                   "name":"Blowin in the Wind",
+                   "match":0.214502,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/014 - Bob Dylan - Blowin In The Wind_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"california_dreamin_the_mamas__the_papas",
+                   "playcount":3351353,
+                   "name":"California Dreamin",
+                   "match":0.181986,
+                   "artist":"The Mamas & the Papas",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/089 - The Mamas & The Papas - California Dreamin_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"graceland_paul_simon",
+                   "playcount":1126120,
+                   "name":"Graceland",
+                   "match":0.173871,
+                   "artist":"Paul Simon",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/88000-88999/88232-graceland-paul-simon--1411589943.mp3"
+                 },
+                 {
+                   "id":"good_vibrations_the_beach_boys",
+                   "playcount":2331426,
+                   "name":"Good Vibrations",
+                   "match":0.168806,
+                   "artist":"The Beach Boys",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15256-good-vibrations-the-beach-boys--1411568541.mp3"
+                 },
+                 {
+                   "id":"god_only_knows_the_beach_boys",
+                   "playcount":2801261,
+                   "name":"God Only Knows",
+                   "match":0.168049,
+                   "artist":"The Beach Boys",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/025 - The Beach Boys - God Only Knows_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"diamonds_on_the_soles_of_her_shoes_paul_simon",
+                   "playcount":947519,
+                   "name":"Diamonds on the Soles of Her Shoes",
+                   "match":0.166963,
+                   "artist":"Paul Simon",
+                   "mp3_url":"http://www.greenbaymedia.com/files/DiamondsOnTheSolesOfHerShoes.mp3"
+                 },
+                 {
+                   "id":"father_and_son_cat_stevens",
+                   "playcount":1610661,
+                   "name":"Father And Son",
+                   "match":0.165752,
+                   "artist":"Cat Stevens",
+                   "mp3_url":"http://www.lostino.com/Media/Father and Son.mp3"
+                 },
+                 {
+                   "id":"mr_tambourine_man_the_byrds",
+                   "playcount":1284682,
+                   "name":"Mr. Tambourine Man",
+                   "match":0.162146,
+                   "artist":"The Byrds",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/079 - The Byrds - Mr Tambourine Man_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"waterloo_sunset_the_kinks",
+                   "playcount":1487059,
+                   "name":"Waterloo Sunset",
+                   "match":0.16141,
+                   "artist":"The Kinks",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17051-waterloo-sunset-the-kinks--1411569448.mp3"
+                 },
+                 {
+                   "id":"american_pie_don_mclean",
+                   "playcount":2083545,
+                   "name":"American Pie",
+                   "match":0.160365,
+                   "artist":"Don McLean",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/47000-47999/47357-american-pie-don-mclean--1411579015.mp3"
+                 },
+                 {
+                   "id":"at_the_zoo_simon__garfunkel",
+                   "playcount":751104,
+                   "name":"At the Zoo",
+                   "match":1,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://www.bigomag.com/MP3/SGaltbook/SGaltbook11.mp3"
+                 },
+                 {
+                   "id":"homeward_bound_simon__garfunkel",
+                   "playcount":1525356,
+                   "name":"Homeward Bound",
+                   "match":0.975838,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/34000-34999/34640-homeward-bound-simon-and-garfunkel--1411574945.mp3"
+                 },
+                 {
+                   "id":"the_wind_cat_stevens",
+                   "playcount":901788,
+                   "name":"The Wind",
+                   "match":0.232197,
+                   "artist":"Cat Stevens",
+                   "mp3_url":"http://download.freeky-music.org.ua/mp3/Cat Stevens/Gold Disc 1/13 The Wind.mp3"
+                 },
+                 {
+                   "id":"subterranean_homesick_blues_bob_dylan",
+                   "playcount":2305537,
+                   "name":"Subterranean Homesick Blues",
+                   "match":0.183986,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/332 - Bob Dylan - Subterranean Homesick Blues_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"me_and_julio_down_by_the_schoolyard_paul_simon",
+                   "playcount":1069523,
+                   "name":"Me And Julio Down By The Schoolyard",
+                   "match":0.17504,
+                   "artist":"Paul Simon",
+                   "mp3_url":"http://www.radiogeorge.com/oldies/oldies36/Paul Simon-Me and Julio Down by the Schoolyard.mp3"
+                 },
+                 {
+                   "id":"sparks_the_who",
+                   "playcount":453628,
+                   "name":"Sparks",
+                   "match":0.158803,
+                   "artist":"The Who",
+                   "mp3_url":"http://www.bigozine8.com/TRKSB/WHOguthrie/WHOguthrie113.mp3"
+                 },
+                 {
+                   "id":"wouldnt_it_be_nice_the_beach_boys",
+                   "playcount":3353795,
+                   "name":"Wouldnt It Be Nice",
+                   "match":0.158316,
+                   "artist":"The Beach Boys",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"penny_lane_the_beatles",
+                   "playcount":3763103,
+                   "name":"Penny Lane",
+                   "match":0.153863,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17670-penny-lane-the-beatles--1411569672.mp3"
+                 },
+                 {
+                   "id":"nowhere_man_the_beatles",
+                   "playcount":2353353,
+                   "name":"Nowhere Man",
+                   "match":0.151926,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/79000-79999/79018-nowhere-man-the-beatles--1411587563.mp3"
+                 },
+                 {
+                   "id":"time_of_the_season_the_zombies",
+                   "playcount":1399480,
+                   "name":"Time of the Season",
+                   "match":0.148988,
+                   "artist":"The Zombies",
+                   "mp3_url":"http://mp3for.me/assets/songs/15000-15999/15130-time-of-the-season-the-zombies--1411568507.mp3"
+                 },
+                 {
+                   "id":"sunny_afternoon_the_kinks",
+                   "playcount":1938402,
+                   "name":"Sunny Afternoon",
+                   "match":0.147335,
+                   "artist":"The Kinks",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17050-sunny-afternoon-the-kinks--1411569447.mp3"
+                 },
+                 {
+                   "id":"bad_moon_rising_creedence_clearwater_revival",
+                   "playcount":3484699,
+                   "name":"Bad Moon Rising",
+                   "match":0.134781,
+                   "artist":"Creedence Clearwater Revival",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/55000-55999/55787-bad-moon-rising-creedence-clearwater-revival--1411581233.mp3"
+                 },
+                 {
+                   "id":"a_whiter_shade_of_pale_procol_harum",
+                   "playcount":1456549,
+                   "name":"A Whiter Shade of Pale",
+                   "match":0.13358,
+                   "artist":"Procol Harum",
+                   "mp3_url":"http://mp3dos.com/assets/songs/58000-58999/58890-a-whiter-shade-of-pale-procol-harum--1411582144.mp3"
+                 },
+                 {
+                   "id":"the_night_before_the_beatles",
+                   "playcount":1371797,
+                   "name":"The Night Before",
+                   "match":1,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17797-the-night-before-the-beatles--1411569698.mp3"
+                 },
+                 {
+                   "id":"another_girl_the_beatles",
+                   "playcount":1173905,
+                   "name":"Another Girl",
+                   "match":0.978399,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17694-another-girl-the-beatles--1411569679.mp3"
+                 },
+                 {
+                   "id":"my_sweet_lord_george_harrison",
+                   "playcount":1562751,
+                   "name":"My Sweet Lord",
+                   "match":0.1462,
+                   "artist":"George Harrison",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15032-my-sweet-lord-george-harrison--1411568464.mp3"
+                 },
+                 {
+                   "id":"jealous_guy_john_lennon",
+                   "playcount":1391315,
+                   "name":"Jealous Guy",
+                   "match":0.145973,
+                   "artist":"John Lennon",
+                   "mp3_url":"http://taringamp3.org/mp3/tbd63x0/4642804/157580327/John_Lennon_Piano_Tribute_-_Jealous_Guy-_John_Lennon_Piano_Tribute_(iPlayer.fm).mp3"
+                 },
+                 {
+                   "id":"imagine_john_lennon",
+                   "playcount":4728911,
+                   "name":"Imagine",
+                   "match":0.133187,
+                   "artist":"John Lennon",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/23000-23999/23494-imagine-john-lennon--1411571408.mp3"
+                 },
+                 {
+                   "id":"my_generation_the_who",
+                   "playcount":3074779,
+                   "name":"My Generation",
+                   "match":0.129601,
+                   "artist":"The Who",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/011 - The Who - My Generation_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"maybe_im_amazed_paul_mccartney",
+                   "playcount":874891,
+                   "name":"Maybe Im Amazed",
+                   "match":0.123557,
+                   "artist":"Paul McCartney",
+                   "mp3_url":"http://a9.g.akamai.net/7/9/29749/v001/btvcomcast.download.akamai.com/29444/Paul_McCartney-Maybe_Im_Amazed.mp3"
+                 },
+                 {
+                   "id":"i_cant_get_no_satisfaction_the_rolling_stones",
+                   "playcount":3929765,
+                   "name":"(I Cant Get No) Satisfaction",
+                   "match":0.119435,
+                   "artist":"The Rolling Stones",
+                   "mp3_url":"http://mp3cofe.com/listen/ce4aef43d9042f7639a6b569503aabfb/65/the-rolling-stones-i-cant-get-no-satisfaction.mp3"
+                 },
+                 {
+                   "id":"ruby_tuesday_the_rolling_stones",
+                   "playcount":1758025,
+                   "name":"Ruby Tuesday",
+                   "match":0.119396,
+                   "artist":"The Rolling Stones",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/303 - The Rolling Stones - Ruby Tuesday_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"band_on_the_run_paul_mccartney__wings",
+                   "playcount":624272,
+                   "name":"Band on the Run",
+                   "match":0.119084,
+                   "artist":"Paul McCartney & Wings",
+                   "mp3_url":"http://mp3dos.com/assets/songs/35000-35999/35378-band-on-the-run-paul-mccartney-wings--1411575329.mp3"
+                 },
+                 {
+                   "id":"what_is_life_george_harrison",
+                   "playcount":794877,
+                   "name":"What Is Life",
+                   "match":0.118968,
+                   "artist":"George Harrison",
+                   "mp3_url":"http://api.ning.com/files/kcLEhQE8A7hS6gnLUc26P9QUJP*MzvANjWujjm1iK2*vGmznknek3xSfleFfcL2mOqXwkM9ospxFG6PT8DK7JA__/105WhatIsLife.mp3"
+                 },
+                 {
+                   "id":"you_really_got_me_the_kinks",
+                   "playcount":2693837,
+                   "name":"You Really Got Me",
+                   "match":0.117183,
+                   "artist":"The Kinks",
+                   "mp3_url":"http://mp3for.me/assets/songs/17000-17999/17039-you-really-got-me-the-kinks--1411569439.mp3"
+                 },
+                 {
+                   "id":"going_to_california_led_zeppelin",
+                   "playcount":3071038,
+                   "name":"Going to California",
+                   "match":0.115639,
+                   "artist":"Led Zeppelin",
+                   "mp3_url":"http://gabrielcuvelier.free.fr/Musique/Led Zeppelin - Led Zeppelin IV/Led Zeppelin - Led Zeppelin IV - 07 - Going To California.mp3"
+                 },
+                 {
+                   "id":"alabama_neil_young",
+                   "playcount":644495,
+                   "name":"Alabama",
+                   "match":1,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://www.ghostwhisperer.us/Music/Neil Young/Alabama.mp3"
+                 },
+                 {
+                   "id":"old_man_neil_young",
+                   "playcount":2247060,
+                   "name":"Old Man",
+                   "match":0.997864,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://www.lostino.com/Media/Neil Young - Old man.mp3"
+                 },
+                 {
+                   "id":"cinnamon_girl_neil_young__crazy_horse",
+                   "playcount":279079,
+                   "name":"Cinnamon Girl",
+                   "match":0.326488,
+                   "artist":"Neil Young & Crazy Horse",
+                   "mp3_url":"http://bigozine7.com/TRKSA/NYbudokan/NYbudokan211.mp3"
+                 },
+                 {
+                   "id":"down_by_the_river_neil_young__crazy_horse",
+                   "playcount":258751,
+                   "name":"Down by the River",
+                   "match":0.231284,
+                   "artist":"Neil Young & Crazy Horse",
+                   "mp3_url":"http://aceterrier.com/audio/downbytheriver.mp3"
+                 },
+                 {
+                   "id":"our_house_crosby_stills_nash__young",
+                   "playcount":708643,
+                   "name":"Our House",
+                   "match":0.219624,
+                   "artist":"Crosby, Stills, Nash & Young",
+                   "mp3_url":"http://www.johnvanhulst.com/radio/muziek/Crosby_Stills_Nash_Young/D%C3%A9j%C3%A0%20Vu/07.%20Our%20house.mp3"
+                 },
+                 {
+                   "id":"just_like_a_woman_bob_dylan",
+                   "playcount":2110999,
+                   "name":"Just Like a Woman",
+                   "match":0.170786,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/230 - Bob Dylan - Just Like A Woman_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"thunder_road_bruce_springsteen",
+                   "playcount":1729765,
+                   "name":"Thunder Road",
+                   "match":0.132686,
+                   "artist":"Bruce Springsteen",
+                   "mp3_url":"http://mp3dos.com/assets/songs/64000-64999/64927-thunder-road-bruce-springsteen--1411583978.mp3"
+                 },
+                 {
+                   "id":"moondance_van_morrison",
+                   "playcount":1461257,
+                   "name":"Moondance",
+                   "match":0.131789,
+                   "artist":"Van Morrison",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/226 - Van Morrison - Moondance_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"into_the_mystic_van_morrison",
+                   "playcount":946651,
+                   "name":"Into The Mystic",
+                   "match":0.130918,
+                   "artist":"Van Morrison",
+                   "mp3_url":"http://www.mirafiori.com/~greg/mewzik/gLm_review/02_VanMorrison_IntoTheMystic.mp3"
+                 },
+                 {
+                   "id":"thats_the_way_led_zeppelin",
+                   "playcount":1701938,
+                   "name":"Thats the Way",
+                   "match":0.129822,
+                   "artist":"Led Zeppelin",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"mr_soul_buffalo_springfield",
+                   "playcount":314354,
+                   "name":"Mr. Soul",
+                   "match":0.128152,
+                   "artist":"Buffalo Springfield",
+                   "mp3_url":"http://www.bigomagazine.com/TRKS5/BUFlbeach/BUFlbeach07.mp3"
+                 },
+                 {
+                   "id":"the_sound_of_silence_simon__garfunkel",
+                   "playcount":6036195,
+                   "name":"The Sound of Silence",
+                   "match":0.125642,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/26000-26999/26938-the-sound-of-silence-simon-and-garfunkel--1411572361.mp3"
+                 },
+                 {
+                   "id":"suite_judy_blue_eyes_crosby_stills__nash",
+                   "playcount":412071,
+                   "name":"Suite: Judy Blue Eyes",
+                   "match":0.12483,
+                   "artist":"Crosby, Stills & Nash",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/418 - Crosby Stills And Nash - Suite Judy Blue Eyes_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"colours_donovan",
+                   "playcount":379996,
+                   "name":"Colours",
+                   "match":1,
+                   "artist":"Donovan",
+                   "mp3_url":"http://www.glidemagazine.com/hiddentrack/wp-content/uploads/2011/04/Colours-Final-Mix.mp3"
+                 },
+                 {
+                   "id":"universal_soldier_donovan",
+                   "playcount":237130,
+                   "name":"Universal Soldier",
+                   "match":0.786433,
+                   "artist":"Donovan",
+                   "mp3_url":"http://vol0.music-bazaar.pro/samples/vol9/481/481195/preview-24e4ba9834.mp3.mp3"
+                 },
+                 {
+                   "id":"helplessly_hoping_crosby_stills__nash",
+                   "playcount":337370,
+                   "name":"Helplessly Hoping",
+                   "match":0.314911,
+                   "artist":"Crosby, Stills & Nash",
+                   "mp3_url":"http://www.rockhall.com/media/assets/music/8ce/498/be3.mp3"
+                 },
+                 {
+                   "id":"turn_turn_turn_to_everything_there_is_a_season_the_byrds",
+                   "playcount":1019735,
+                   "name":"Turn! Turn! Turn! (To Everything There Is a Season)",
+                   "match":0.29584,
+                   "artist":"The Byrds",
+                   "mp3_url":"http://brothergrimm.net/downloads/The Byrds - Turn! Turn! Turn! -Turn! Turn! Turn! (To Everything There Is A Season).mp3"
+                 },
+                 {
+                   "id":"i_am_a_rock_simon__garfunkel",
+                   "playcount":1683847,
+                   "name":"I Am a Rock",
+                   "match":0.284797,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://d8776bzuvg4y2.cloudfront.net/aoma/000/000/000/000/000/364/69/00000000000000036469-128K_44S_2C_cbr1x_clipped.mp3"
+                 },
+                 {
+                   "id":"shapes_of_things_the_yardbirds",
+                   "playcount":285279,
+                   "name":"Shapes Of Things",
+                   "match":0.274654,
+                   "artist":"The Yardbirds",
+                   "mp3_url":"http://www.rockhall.com/media/assets/music/834/f70/278.mp3"
+                 },
+                 {
+                   "id":"im_alive_the_hollies",
+                   "playcount":366045,
+                   "name":"Im Alive",
+                   "match":0.270638,
+                   "artist":"The Hollies",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"eight_miles_high_the_byrds",
+                   "playcount":658722,
+                   "name":"Eight Miles High",
+                   "match":0.260386,
+                   "artist":"The Byrds",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/150 - The Byrds - Eight Miles High_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"mr_tambourine_man_bob_dylan",
+                   "playcount":2577523,
+                   "name":"Mr. Tambourine Man",
+                   "match":0.259038,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/106 - Bob Dylan - Mr. Tambourine Man_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"leaving_on_a_jet_plane_peter_paul__mary",
+                   "playcount":203609,
+                   "name":"Leaving on a Jet Plane",
+                   "match":0.252686,
+                   "artist":"Peter, Paul & Mary",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/53000-53999/53339-leaving-on-a-jet-plane-peter-paul-mary--1411580576.mp3"
+                 },
+                 {
+                   "id":"if_you_could_read_my_mind_gordon_lightfoot",
+                   "playcount":435683,
+                   "name":"If You Could Read My Mind",
+                   "match":0.251459,
+                   "artist":"Gordon Lightfoot",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15040-if-you-could-read-my-mind-gordon-lightfoot--1411568467.mp3"
+                 },
+                 {
+                   "id":"with_a_girl_like_you_the_troggs",
+                   "playcount":620931,
+                   "name":"With a Girl Like You",
+                   "match":0.243519,
+                   "artist":"The Troggs",
+                   "mp3_url":"http://www.suckapants.com/Music/ThaoAndTheGetDownStayDown-WithAGirlLikeYou.mp3"
+                 },
+                 {
+                   "id":"peace_train_cat_stevens",
+                   "playcount":916771,
+                   "name":"Peace Train",
+                   "match":0.24131,
+                   "artist":"Cat Stevens",
+                   "mp3_url":"http://a.tumblr.com/tumblr_lbbafv2kY51qea3o5o1.mp3"
+                 },
+                 {
+                   "id":"hurricane_bob_dylan",
+                   "playcount":2196083,
+                   "name":"Hurricane",
+                   "match":0.185267,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/95000-95999/95285-hurricane-bob-dylan--1411591962.mp3"
+                 },
+                 {
+                   "id":"ohio_crosby_stills_nash__young",
+                   "playcount":597040,
+                   "name":"Ohio",
+                   "match":0.18262,
+                   "artist":"Crosby, Stills, Nash & Young",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/385 - Crosby Stills Nash And Young - Ohio_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"a_horse_with_no_name_america",
+                   "playcount":1767946,
+                   "name":"A Horse With No Name",
+                   "match":0.175289,
+                   "artist":"America",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/95000-95999/95241-a-horse-with-no-name-america--1411591949.mp3"
+                 },
+                 {
+                   "id":"brown_eyed_girl_van_morrison",
+                   "playcount":2900351,
+                   "name":"Brown Eyed Girl",
+                   "match":0.163642,
+                   "artist":"Van Morrison",
+                   "mp3_url":"http://mp3for.me/assets/songs/16000-16999/16789-brown-eyed-girl-van-morrison--1411569305.mp3"
+                 },
+                 {
+                   "id":"wholl_stop_the_rain_creedence_clearwater_revival",
+                   "playcount":1820616,
+                   "name":"Wholl Stop the Rain",
+                   "match":0.151968,
+                   "artist":"Creedence Clearwater Revival",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"wild_world_cat_stevens",
+                   "playcount":2379431,
+                   "name":"Wild World",
+                   "match":0.150593,
+                   "artist":"Cat Stevens",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/48000-48999/48900-wild-world-cat-stevens--1411579419.mp3"
+                 },
+                 {
+                   "id":"wish_you_were_here_pink_floyd",
+                   "playcount":10094888,
+                   "name":"Wish You Were Here",
+                   "match":0.149673,
+                   "artist":"Pink Floyd",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/316 - Pink Floyd - Wish You Were Here_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"layla_eric_clapton",
+                   "playcount":2969933,
+                   "name":"Layla",
+                   "match":0.148541,
+                   "artist":"Eric Clapton",
+                   "mp3_url":"http://vol4.music-bazaar.com/samples/vol4/346/346626/preview-e4019b2047.mp3.mp3"
+                 },
+                 {
+                   "id":"stairway_to_heaven_led_zeppelin",
+                   "playcount":9132487,
+                   "name":"Stairway to Heaven",
+                   "match":0.14826,
+                   "artist":"Led Zeppelin",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/21000-21999/21323-stairway-to-heaven-led-zeppelin--1411570755.mp3"
+                 },
+                 {
+                   "id":"mrs_robinson_simon__garfunkel",
+                   "playcount":3275418,
+                   "name":"Mrs. Robinson",
+                   "match":0.144945,
+                   "artist":"Simon & Garfunkel",
+                   "mp3_url":"http://mp3dos.com/assets/songs/65000-65999/65096-mrs-robinson-simon-garfunkel--1411584011.mp3"
+                 },
+                 {
+                   "id":"go_your_own_way_fleetwood_mac",
+                   "playcount":3503874,
+                   "name":"Go Your Own Way",
+                   "match":0.144391,
+                   "artist":"Fleetwood Mac",
+                   "mp3_url":"http://mp3dos.com/assets/songs/16000-16999/16904-go-your-own-way-fleetwood-mac--1411569381.mp3"
+                 },
+                 {
+                   "id":"walk_on_the_wild_side_lou_reed",
+                   "playcount":2695491,
+                   "name":"Walk on the Wild Side",
+                   "match":0.144276,
+                   "artist":"Lou Reed",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/221 - Lou Reed - Walk On The Wild Side_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"perfect_day_lou_reed",
+                   "playcount":2980077,
+                   "name":"Perfect Day",
+                   "match":0.142288,
+                   "artist":"Lou Reed",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/88000-88999/88223-perfect-day-lou-reed--1411589942.mp3"
+                 },
+                 {
+                   "id":"piggies_the_beatles",
+                   "playcount":1584601,
+                   "name":"Piggies",
+                   "match":1,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/17000-17999/17609-piggies-the-beatles--1411569647.mp3"
+                 },
+                 {
+                   "id":"im_so_tired_the_beatles",
+                   "playcount":2020546,
+                   "name":"Im So Tired",
+                   "match":0.939544,
+                   "artist":"The Beatles",
+                   "mp3_url":"http://mp3.ecsmedia.pl/track/music/00/00/09/61/65463703/10/10_30.mp3"
+                 },
+                 {
+                   "id":"black_dog_led_zeppelin",
+                   "playcount":4809091,
+                   "name":"Black Dog",
+                   "match":0.128221,
+                   "artist":"Led Zeppelin",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/294 - Led Zeppelin - Black Dog_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"sunday_morning_the_velvet_underground",
+                   "playcount":2631419,
+                   "name":"Sunday Morning",
+                   "match":0.126666,
+                   "artist":"The Velvet Underground",
+                   "mp3_url":"http://www.covermesongs.com/MP3s/FullAlbums/TheVUandNico/SundayMorning.mp3"
+                 },
+                 {
+                   "id":"sympathy_for_the_devil_the_rolling_stones",
+                   "playcount":4250844,
+                   "name":"Sympathy for the Devil",
+                   "match":0.124553,
+                   "artist":"The Rolling Stones",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/52000-52999/52027-sympathy-for-the-devil-rolling-stones--1411580244.mp3"
+                 },
+                 {
+                   "id":"gimme_shelter_the_rolling_stones",
+                   "playcount":4420526,
+                   "name":"Gimme Shelter",
+                   "match":0.12136,
+                   "artist":"The Rolling Stones",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/46000-46999/46663-gimme-shelter-the-rolling-stones--1411578819.mp3"
+                 },
+                 {
+                   "id":"queenie_eye_paul_mccartney",
+                   "playcount":162306,
+                   "name":"Queenie Eye",
+                   "match":0.120198,
+                   "artist":"Paul McCartney",
+                   "mp3_url":"http://static.archambault.ca/sample/B/4/F/7/B4F7086EF65ED36E9829220222E5DE37/UMG_audclp_00888072348462_01_004_161.mp3"
+                 },
+                 {
+                   "id":"all_things_must_pass_george_harrison",
+                   "playcount":315460,
+                   "name":"All Things Must Pass",
+                   "match":0.116667,
+                   "artist":"George Harrison",
+                   "mp3_url":"http://www.bigomagazine.com/TRKS/GHacetate/GHacetate110.mp3"
+                 },
+                 {
+                   "id":"sunshine_of_your_love_cream",
+                   "playcount":3056492,
+                   "name":"Sunshine of Your Love",
+                   "match":0.116599,
+                   "artist":"Cream",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15137-sunshine-of-your-love-cream--1411568509.mp3"
+                 },
+                 {
+                   "id":"bohemian_rhapsody_queen",
+                   "playcount":7898389,
+                   "name":"Bohemian Rhapsody",
+                   "match":0.116533,
+                   "artist":"Queen",
+                   "mp3_url":"http://mp3dos.com/assets/songs/25000-25999/25178-bohemian-rhapsody-queen--1411571876.mp3"
+                 },
+                 {
+                   "id":"money_pink_floyd",
+                   "playcount":6368187,
+                   "name":"Money",
+                   "match":0.116392,
+                   "artist":"Pink Floyd",
+                   "mp3_url":"http://www.shopfloor.org/wp-content/uploads/amazoncom-money-mp3-downloads-pink-floyd.mp3"
+                 },
+                 {
+                   "id":"lola_the_kinks",
+                   "playcount":2034406,
+                   "name":"Lola",
+                   "match":0.112246,
+                   "artist":"The Kinks",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/422 - The Kinks - Lola_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"space_oddity_david_bowie",
+                   "playcount":3739057,
+                   "name":"Space Oddity",
+                   "match":0.110032,
+                   "artist":"David Bowie",
+                   "mp3_url":"http://mp3dos.com/assets/songs/68000-68999/68418-space-oddity-david-bowie-songs-the-langley-schools-music-project--1411584866.mp3"
+                 },
+                 {
+                   "id":"there_is_a_mountain_donovan",
+                   "playcount":155568,
+                   "name":"There Is a Mountain",
+                   "match":1,
+                   "artist":"Donovan",
+                   "mp3_url":"http://www.radiogeorge.com/oldies/oldies34/Donovan-There Is A Mountain.mp3"
+                 },
+                 {
+                   "id":"mellow_yellow_donovan",
+                   "playcount":502438,
+                   "name":"Mellow Yellow",
+                   "match":0.777199,
+                   "artist":"Donovan",
+                   "mp3_url":"http://mp3for.me/assets/songs/16000-16999/16882-mellow-yellow-donovan--1411569374.mp3"
+                 },
+                 {
+                   "id":"i_want_you_bob_dylan",
+                   "playcount":2173611,
+                   "name":"I Want You",
+                   "match":0.175692,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://mp3dos.com/assets/songs/44000-44999/44291-i-want-you-bob-dylan--1411578133.mp3"
+                 },
+                 {
+                   "id":"it_aint_me_babe_bob_dylan",
+                   "playcount":968208,
+                   "name":"It Aint Me Babe",
+                   "match":0.175015,
+                   "artist":"Bob Dylan",
+                   "mp3_url":"http://a.tumblr.com/tumblr_majzm4UEKV1qiq1o7o1.mp3"
+                 },
+                 {
+                   "id":"creeque_alley_the_mamas__the_papas",
+                   "playcount":191093,
+                   "name":"Creeque Alley",
+                   "match":0.15097,
+                   "artist":"The Mamas & the Papas",
+                   "mp3_url":"http://rstrathdee.com/mp3s/oldRock/Mamas Papas - Creeque Alley.mp3"
+                 },
+                 {
+                   "id":"puff_the_magic_dragon_peter_paul__mary",
+                   "playcount":88017,
+                   "name":"Puff, the Magic Dragon",
+                   "match":0.149333,
+                   "artist":"Peter, Paul & Mary",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/68000-68999/68229-puff-the-magic-dragon-peter-paul-mary--1411584806.mp3"
+                 },
+                 {
+                   "id":"morning_train_peter_paul__mary",
+                   "playcount":4917,
+                   "name":"Morning Train",
+                   "match":0.143329,
+                   "artist":"Peter, Paul & Mary",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"everybodys_talkin_harry_nilsson",
+                   "playcount":642395,
+                   "name":"Everybodys Talkin",
+                   "match":0.139963,
+                   "artist":"Harry Nilsson",
+                   "mp3_url":"http://sjczonasul.com.br/blogs/wp-content/uploads/2013/07/05-Harry-Nilsson-Everybodys-Talkin.mp3"
+                 },
+                 {
+                   "id":"phantasmagoria_in_two_tim_buckley",
+                   "playcount":163222,
+                   "name":"Phantasmagoria in Two",
+                   "match":0.135371,
+                   "artist":"Tim Buckley",
+                   "mp3_url":"http://a.tumblr.com/tumblr_mb6fua7zqm1qld40ho1.mp3"
+                 },
+                 {
+                   "id":"full_measure_the_lovin_spoonful",
+                   "playcount":16799,
+                   "name":"Full Measure",
+                   "match":0.134214,
+                   "artist":"The Lovin Spoonful",
+                   "mp3_url":"http://garnetrose.info/2008/07/Duct Tape/Lovin Spoonful - Hums - 06 - Full Measure.mp3"
+                 },
+                 {
+                   "id":"its_not_time_now_the_lovin_spoonful",
+                   "playcount":8401,
+                   "name":"Its Not Time Now",
+                   "match":0.132601,
+                   "artist":"The Lovin Spoonful",
+                   "mp3_url":"No result"
+                 },
+                 {
+                   "id":"for_your_love_the_yardbirds",
+                   "playcount":1214770,
+                   "name":"For Your Love",
+                   "match":0.132403,
+                   "artist":"The Yardbirds",
+                   "mp3_url":"http://www.rockhall.com/media/assets/music/d92/339/e20.mp3"
+                 },
+                 {
+                   "id":"both_sides_now_judy_collins",
+                   "playcount":112009,
+                   "name":"Both Sides Now",
+                   "match":0.132365,
+                   "artist":"Judy Collins",
+                   "mp3_url":"http://202.194.48.102/englishonline/songs/folks/sound/a07.mp3"
+                 },
+                 {
+                   "id":"fortunate_son_creedence_clearwater_revival",
+                   "playcount":4307021,
+                   "name":"Fortunate Son",
+                   "match":0.630082,
+                   "artist":"Creedence Clearwater Revival",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/55000-55999/55788-fortunate-son-creedence-clearwater-revival--1411581233.mp3"
+                 },
+                 {
+                   "id":"the_house_of_the_rising_sun_the_animals",
+                   "playcount":3705469,
+                   "name":"The House of the Rising Sun",
+                   "match":0.583255,
+                   "artist":"The Animals",
+                   "mp3_url":"http://mp3dos.com/assets/songs/26000-26999/26225-the-house-of-the-rising-sun-the-animals--1411572145.mp3"
+                 },
+                 {
+                   "id":"magic_carpet_ride_steppenwolf",
+                   "playcount":1382640,
+                   "name":"Magic Carpet Ride",
+                   "match":0.501897,
+                   "artist":"Steppenwolf",
+                   "mp3_url":"http://api.ning.com/files/CnvI3-QNg2d4lFgdKlhNQY6zXrGI0dGFt0OYNVZQfTEoTeVZSuPim1VJkJiF5u1RqmjViEpieD9mC2BaqymAWwhWrRDywlOY/YWSAlZyfmnuSpKOZqYignJYy.mp"
+                 },
+                 {
+                   "id":"long_cool_woman_in_a_black_dress_the_hollies",
+                   "playcount":731784,
+                   "name":"Long Cool Woman (in a Black Dress)",
+                   "match":0.497921,
+                   "artist":"The Hollies",
+                   "mp3_url":"http://rockhall.com/media/assets/music/906/307/433.mp3"
+                 },
+                 {
+                   "id":"white_room_cream",
+                   "playcount":2027346,
+                   "name":"White Room",
+                   "match":0.479731,
+                   "artist":"Cream",
+                   "mp3_url":"http://www.zminin.com/files/hardroad/cream-white.room.mp3"
+                 },
+                 {
+                   "id":"born_to_be_wild_steppenwolf",
+                   "playcount":2524827,
+                   "name":"Born to Be Wild",
+                   "match":0.450118,
+                   "artist":"Steppenwolf",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15165-born-to-be-wild-steppenwolf--1411568515.mp3"
+                 },
+                 {
+                   "id":"happy_together_the_turtles",
+                   "playcount":1912078,
+                   "name":"Happy Together",
+                   "match":0.438386,
+                   "artist":"The Turtles",
+                   "mp3_url":"http://nogoodforme.filmstills.org/music/Billboard Top 100 Hits Of 1967 - 008.mp3"
+                 },
+                 {
+                   "id":"somebody_to_love_jefferson_airplane",
+                   "playcount":3700148,
+                   "name":"Somebody to Love",
+                   "match":0.437879,
+                   "artist":"Jefferson Airplane",
+                   "mp3_url":"http://onlinekaraoke.tv/assets/songs/15000-15999/15212-somebody-to-love-jefferson-airplane--1411568531.mp3"
+                 },
+                 {
+                   "id":"white_rabbit_jefferson_airplane",
+                   "playcount":4114073,
+                   "name":"White Rabbit",
+                   "match":0.432745,
+                   "artist":"Jefferson Airplane",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/478 - Jefferson Airplane - White Rabbit_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"shes_not_there_the_zombies",
+                   "playcount":1004382,
+                   "name":"Shes Not There",
+                   "match":0.431432,
+                   "artist":"The Zombies",
+                   "mp3_url":"http://s1.fans.ge/mp3/201111/27/The_Zombies_-_Shes_Not_There(fans_ge).mp3"
+                 },
+                 {
+                   "id":"paint_it_black_the_rolling_stones",
+                   "playcount":6123332,
+                   "name":"Paint It Black",
+                   "match":0.423983,
+                   "artist":"The Rolling Stones",
+                   "mp3_url":"http://mp3for.me/assets/songs/15000-15999/15243-paint-it-black-the-rolling-stones--1411568537.mp3"
+                 },
+                 {
+                   "id":"the_joker_steve_miller_band",
+                   "playcount":1673060,
+                   "name":"The Joker",
+                   "match":0.416323,
+                   "artist":"Steve Miller Band",
+                   "mp3_url":"http://mp3dos.com/assets/songs/38000-38999/38953-the-joker-steve-miller-band--1411576320.mp3"
+                 },
+                 {
+                   "id":"running_on_empty_jackson_browne",
+                   "playcount":722913,
+                   "name":"Running On Empty",
+                   "match":0.412226,
+                   "artist":"Jackson Browne",
+                   "mp3_url":"http://dl.ahangbaz.org/album/1393/06/26/500songs/492 - Jackson Browne - Running On Empty_(Ahangbaz.org)_(Ahangbaz.org).mp3"
+                 },
+                 {
+                   "id":"sisters_of_mercy_leonard_cohen",
+                   "playcount":984012,
+                   "name":"Sisters of Mercy",
+                   "match":1,
+                   "artist":"Leonard Cohen",
+                   "mp3_url":"http://mp3dos.com/assets/songs/78000-78999/78398-sisters-of-mercy-leonard-cohen--1411587399.mp3"
+                 },
+                 {
+                   "id":"hey_thats_no_way_to_say_goodbye_leonard_cohen",
+                   "playcount":961668,
+                   "name":"Hey, Thats No Way to Say Goodbye",
+                   "match":0.913908,
+                   "artist":"Leonard Cohen",
+                   "mp3_url":"http://www.bigozine2.com/TRKSA/LCbbc/LCbbc11.mp3"
+                 },
+                 {
+                   "id":"which_will_nick_drake",
+                   "playcount":1475225,
+                   "name":"Which Will",
+                   "match":0.0831259,
+                   "artist":"Nick Drake",
+                   "mp3_url":"http://coverlaydown.com/tunes/2013/whichwill.mp3"
+                 },
+                 {
+                   "id":"tell_me_why_neil_young",
+                   "playcount":751886,
+                   "name":"Tell Me Why",
+                   "match":0.0818139,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://bigomag.com/TRKS2/NYbudokan/NYbudokan101.mp3"
+                 },
+                 {
+                   "id":"place_to_be_nick_drake",
+                   "playcount":1731147,
+                   "name":"Place To Be",
+                   "match":0.127456,
+                   "artist":"Nick Drake",
+                   "mp3_url":"http://freedownloads.last.fm/download/289814783/Place+To+Be+(Nick+Drake+cover+-+Live+at+Maps).mp3"
+                 },
+                 {
+                   "id":"a_case_of_you_joni_mitchell",
+                   "playcount":989986,
+                   "name":"A Case of You",
+                   "match":0.0829056,
+                   "artist":"Joni Mitchell",
+                   "mp3_url":"http://www.tunetheproletariat.com/audio/01 A Case of You.mp3"
+                 },
+                 {
+                   "id":"after_the_gold_rush_neil_young",
+                   "playcount":1198884,
+                   "name":"After the Gold Rush",
+                   "match":0.0812519,
+                   "artist":"Neil Young",
+                   "mp3_url":"http://www.bigomagazine.com/TRKS2/NYbudokan/NYbudokan103.mp3"
+                 },
+                 {
+                   "id":"i_hope_that_i_dont_fall_in_love_with_you_tom_waits",
+                   "playcount":890843,
+                   "name":"I Hope That I Dont Fall in Love With You",
+                   "match":0.0794099,
+                   "artist":"Tom Waits",
+                   "mp3_url":"No result"
+                 }
+             ],
+    "links": [
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "my_back_pages_bob_dylan"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "its_all_over_now_baby_blue_bob_dylan"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "the_boxer_simon__garfunkel"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "america_simon__garfunkel"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "youve_got_to_hide_your_love_away_the_beatles"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "the_needle_and_the_damage_done_neil_young"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "catch_the_wind_donovan"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "heart_of_gold_neil_young"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "blackbird_the_beatles"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "jennifer_juniper_donovan"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "for_what_its_worth_buffalo_springfield"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "so_long_marianne_leonard_cohen"
+        }, 
+        {
+            "source": "it_aint_me_babe_bob_dylan", 
+            "target": "suzanne_leonard_cohen"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "she_belongs_to_me_bob_dylan"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "maggies_farm_bob_dylan"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "only_love_can_break_your_heart_neil_young"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "the_weight_the_band"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "the_night_they_drove_old_dixie_down_the_band"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "you_aint_goin_nowhere_bob_dylan_and_the_band"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "go_and_say_goodbye_buffalo_springfield"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "astral_weeks_van_morrison"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "pink_moon_nick_drake"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "hazey_jane_ii_nick_drake"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "teach_your_children_crosby_stills_nash__young"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "thrasher_neil_young__crazy_horse"
+        }, 
+        {
+            "source": "its_all_over_now_baby_blue_bob_dylan", 
+            "target": "carey_joni_mitchell"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "bridge_over_troubled_water_simon__garfunkel"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "cecilia_simon__garfunkel"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "like_a_rolling_stone_bob_dylan"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "blowin_in_the_wind_bob_dylan"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "california_dreamin_the_mamas__the_papas"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "graceland_paul_simon"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "good_vibrations_the_beach_boys"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "god_only_knows_the_beach_boys"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "diamonds_on_the_soles_of_her_shoes_paul_simon"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "father_and_son_cat_stevens"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "mr_tambourine_man_the_byrds"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "waterloo_sunset_the_kinks"
+        }, 
+        {
+            "source": "the_boxer_simon__garfunkel", 
+            "target": "american_pie_don_mclean"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "at_the_zoo_simon__garfunkel"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "homeward_bound_simon__garfunkel"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "the_wind_cat_stevens"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "subterranean_homesick_blues_bob_dylan"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "me_and_julio_down_by_the_schoolyard_paul_simon"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "sparks_the_who"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "wouldnt_it_be_nice_the_beach_boys"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "penny_lane_the_beatles"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "nowhere_man_the_beatles"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "time_of_the_season_the_zombies"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "sunny_afternoon_the_kinks"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "bad_moon_rising_creedence_clearwater_revival"
+        }, 
+        {
+            "source": "america_simon__garfunkel", 
+            "target": "a_whiter_shade_of_pale_procol_harum"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "the_night_before_the_beatles"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "another_girl_the_beatles"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "my_sweet_lord_george_harrison"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "jealous_guy_john_lennon"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "imagine_john_lennon"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "my_generation_the_who"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "maybe_im_amazed_paul_mccartney"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "i_cant_get_no_satisfaction_the_rolling_stones"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "ruby_tuesday_the_rolling_stones"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "band_on_the_run_paul_mccartney__wings"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "what_is_life_george_harrison"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "you_really_got_me_the_kinks"
+        }, 
+        {
+            "source": "youve_got_to_hide_your_love_away_the_beatles", 
+            "target": "going_to_california_led_zeppelin"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "alabama_neil_young"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "old_man_neil_young"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "cinnamon_girl_neil_young__crazy_horse"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "down_by_the_river_neil_young__crazy_horse"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "our_house_crosby_stills_nash__young"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "just_like_a_woman_bob_dylan"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "thunder_road_bruce_springsteen"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "moondance_van_morrison"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "into_the_mystic_van_morrison"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "thats_the_way_led_zeppelin"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "mr_soul_buffalo_springfield"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "the_sound_of_silence_simon__garfunkel"
+        }, 
+        {
+            "source": "the_needle_and_the_damage_done_neil_young", 
+            "target": "suite_judy_blue_eyes_crosby_stills__nash"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "colours_donovan"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "universal_soldier_donovan"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "helplessly_hoping_crosby_stills__nash"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "turn_turn_turn_to_everything_there_is_a_season_the_byrds"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "i_am_a_rock_simon__garfunkel"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "shapes_of_things_the_yardbirds"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "im_alive_the_hollies"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "eight_miles_high_the_byrds"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "mr_tambourine_man_bob_dylan"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "leaving_on_a_jet_plane_peter_paul__mary"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "if_you_could_read_my_mind_gordon_lightfoot"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "with_a_girl_like_you_the_troggs"
+        }, 
+        {
+            "source": "catch_the_wind_donovan", 
+            "target": "peace_train_cat_stevens"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "hurricane_bob_dylan"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "ohio_crosby_stills_nash__young"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "a_horse_with_no_name_america"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "brown_eyed_girl_van_morrison"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "wholl_stop_the_rain_creedence_clearwater_revival"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "wild_world_cat_stevens"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "wish_you_were_here_pink_floyd"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "layla_eric_clapton"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "stairway_to_heaven_led_zeppelin"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "mrs_robinson_simon__garfunkel"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "go_your_own_way_fleetwood_mac"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "walk_on_the_wild_side_lou_reed"
+        }, 
+        {
+            "source": "heart_of_gold_neil_young", 
+            "target": "perfect_day_lou_reed"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "piggies_the_beatles"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "im_so_tired_the_beatles"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "black_dog_led_zeppelin"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "sunday_morning_the_velvet_underground"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "sympathy_for_the_devil_the_rolling_stones"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "gimme_shelter_the_rolling_stones"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "queenie_eye_paul_mccartney"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "all_things_must_pass_george_harrison"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "sunshine_of_your_love_cream"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "bohemian_rhapsody_queen"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "money_pink_floyd"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "lola_the_kinks"
+        }, 
+        {
+            "source": "blackbird_the_beatles", 
+            "target": "space_oddity_david_bowie"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "there_is_a_mountain_donovan"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "mellow_yellow_donovan"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "i_want_you_bob_dylan"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "it_aint_me_babe_bob_dylan"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "creeque_alley_the_mamas__the_papas"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "puff_the_magic_dragon_peter_paul__mary"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "morning_train_peter_paul__mary"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "everybodys_talkin_harry_nilsson"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "phantasmagoria_in_two_tim_buckley"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "full_measure_the_lovin_spoonful"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "its_not_time_now_the_lovin_spoonful"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "for_your_love_the_yardbirds"
+        }, 
+        {
+            "source": "jennifer_juniper_donovan", 
+            "target": "both_sides_now_judy_collins"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "fortunate_son_creedence_clearwater_revival"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "the_house_of_the_rising_sun_the_animals"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "magic_carpet_ride_steppenwolf"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "long_cool_woman_in_a_black_dress_the_hollies"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "white_room_cream"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "born_to_be_wild_steppenwolf"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "happy_together_the_turtles"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "somebody_to_love_jefferson_airplane"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "white_rabbit_jefferson_airplane"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "shes_not_there_the_zombies"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "paint_it_black_the_rolling_stones"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "the_joker_steve_miller_band"
+        }, 
+        {
+            "source": "for_what_its_worth_buffalo_springfield", 
+            "target": "running_on_empty_jackson_browne"
+        }, 
+        {
+            "source": "so_long_marianne_leonard_cohen", 
+            "target": "sisters_of_mercy_leonard_cohen"
+        }, 
+        {
+            "source": "so_long_marianne_leonard_cohen", 
+            "target": "hey_thats_no_way_to_say_goodbye_leonard_cohen"
+        }, 
+        {
+            "source": "so_long_marianne_leonard_cohen", 
+            "target": "which_will_nick_drake"
+        }, 
+        {
+            "source": "so_long_marianne_leonard_cohen", 
+            "target": "tell_me_why_neil_young"
+        }, 
+        {
+            "source": "suzanne_leonard_cohen", 
+            "target": "place_to_be_nick_drake"
+        }, 
+        {
+            "source": "suzanne_leonard_cohen", 
+            "target": "a_case_of_you_joni_mitchell"
+        }, 
+        {
+            "source": "suzanne_leonard_cohen", 
+            "target": "after_the_gold_rush_neil_young"
+        }, 
+        {
+            "source": "suzanne_leonard_cohen", 
+            "target": "i_hope_that_i_dont_fall_in_love_with_you_tom_waits"
+        }
+    ]
+}
